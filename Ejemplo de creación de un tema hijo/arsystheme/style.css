@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Arsys Theme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Este es un tema para el Curso de Arsys
+ Author:       Miguel Angel Alvarez
+ Author URI:   http://desarrolloweb.com
+ Template:     twentyfifteen
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  arsystheme
+*/
+
+body {
+    background-color: #e0f0ff;
+    color: #369;
+}
+
+h1.site-title a {
+    color: #39c;
+}
+
+h2 a {
+    color: red;
+}
